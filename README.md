@@ -13,3 +13,5 @@ Result: balanced and centred output for virtually all listeners with stereo-cent
 Download calibrator.flac at https://www.dropbox.com/s/mbct72tptafpo1d/calibrator.flac?dl=0
 
 Result: FR-neutral headphone virtualizer applying minimal colouration to original headphone sound signature while providing varying levels of virtualization depending on length chosen in (2)
+
+Visit EFOtech at efotech.fi
